@@ -21,6 +21,10 @@
   display: flex;
 }
 
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
 .nav-item {
   margin-right: 10px;
 }
